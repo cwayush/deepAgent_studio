@@ -6,7 +6,7 @@
 
 <br/>
 
-DeepAgent Studio is a clean, modular, and extensible full-stack application for building advanced AI agents, leveraging the power of FastAPI, React, and LangGraph.
+DeepAgent Studio is a highly optimized, full-stack environment designed for developing and deploying advanced AI agents. Leveraging the power of FastAPI for high-performance backend routing and React for a dynamic, responsive user interface, the platform provides a robust foundation for agentic workflows. It tightly integrates with LangGraph to enable complex, stateful agent logic, multi-agent delegation, and comprehensive tool usage. With built-in support for context engineering, virtual filesystems, and thread-safe session management, DeepAgent Studio empowers developers to rapidly build resilient, intelligent systems capable of executing deep research and structured autonomous tasks.
 
 </div>
 
