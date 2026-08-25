@@ -1,10 +1,21 @@
 <div align="center">
 
----
-
-## 📖 Overview
+# DeepAgent Studio
 
 DeepAgent Studio is a clean, modular, and extensible architecture for building advanced AI agents. Originally a Streamlit prototype, it has been completely re-architected into a robust full-stack application.
+
+<br/>
+
+![Python](https://img.shields.io/badge/PYTHON-3.13+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/REACT-SPA-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/TAILWIND-CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LANGGRAPH-AGENT_ENGINE-FF4F00?style=for-the-badge)
+![Zustand](https://img.shields.io/badge/ZUSTAND-STATE-4A4A4A?style=for-the-badge)
+
+</div>
+
+---
 
 **Key Features:**
 
