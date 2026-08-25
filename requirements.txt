@@ -1,0 +1,24 @@
+# Core deep-agents framework
+deepagents>=0.7.8
+
+# LangGraph (checkpointer, store, backends)
+langgraph>=1.2.11
+
+# LangChain integrations
+langchain>=1.3.16
+langchain-groq>=1.1.3
+langchain-openai>=1.6.0
+
+# Pydantic (structured output schemas)
+pydantic>=2.13.4
+
+# Web search
+tavily-python>=0.7.27
+
+# Environment / config
+python-dotenv>=1.2.3
+
+# Backend Server
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+sse-starlette>=2.1.0
