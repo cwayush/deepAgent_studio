@@ -6,7 +6,7 @@
 
 <br/>
 
-DeepAgent Studio is a clean, modular, and extensible architecture for building advanced AI agents. Originally a Streamlit prototype, it has been completely re-architected into a robust full-stack application leveraging the power of FastAPI, React, and LangGraph.
+DeepAgent Studio is a clean, modular, and extensible full-stack application for building advanced AI agents, leveraging the power of FastAPI, React, and LangGraph.
 
 </div>
 
@@ -17,7 +17,7 @@ DeepAgent Studio is a clean, modular, and extensible architecture for building a
 - **Context Engineering:** Loads durable `AGENTS.md` context and specific skills (Python, AWS, LangGraph, etc.) into the agent's memory.
 - **Subagent Delegation:** Includes a `research-agent` for deep web searches and a `structured-researcher` that enforces Pydantic JSON outputs.
 - **Virtual File System:** Maintains an isolated in-memory or on-disk file system for the agent to read and write without polluting your actual drive.
-- **Session Management:** Robust server-side state replacing `st.session_state` with thread-safe UUID-based session tracking.
+- **Session Management:** Robust server-side state with thread-safe UUID-based session tracking.
 
 ---
 
